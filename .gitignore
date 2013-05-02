@@ -1,3 +1,8 @@
 .DS_Store
 *.pyc
 *.wsgi
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
