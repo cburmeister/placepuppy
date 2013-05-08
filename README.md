@@ -1,4 +1,11 @@
 placepuppy.com
 ==============
 
-quick &amp; cute image placeholders for everyone.
+Quick &amp; cute image placeholders for everyone. Because puppies > kittens.
+
+## Let's ask the python interpreter
+
+```python
+>>> 'puppies' > 'kittens'
+True
+```
